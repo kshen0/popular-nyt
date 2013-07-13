@@ -1,19 +1,4 @@
-=======
-boilerplates
-============
-My personal boilerplate for Express.
+popular-nyt
+===========
 
-#Versions:
-master: Coffeescript, Mongodb, Handlebars, SASS (with a build script)
-
-#package.json
-underscore
-jquery
-hbs
-js2coffee
-socket.io
-
-#javascripts
-jquery
-bootstrap
-backbone
+Visualizes the most viewed New York Times articles of the past 30 days. Dynamic version of geographic-nyt.
